@@ -1,0 +1,109 @@
+UNSHACKLE LICENSE, version 0.2 
+SPDX-License-Identifier: LicenseRef-Unshackle-0.2
+
+Copyright (c) 2026 Voctl
+
+1. DEFINITIONS
+"Work" means the software, documentation and other files this
+license is attached to. "Licensor" means the copyright holder.
+"You" means anyone using the Work under this license.
+"Modified File" means a file that contains code from the Work and
+has been changed by You, or a file derived from a file of the Work
+(for example a port or translation into another language).
+"Your Files" means files You wrote that are not Modified Files.
+"Distribute" means giving a copy, in source or binary form, to
+anyone outside Your own legal entity. Your own legal entity
+includes people working for You under Your direction, such as
+employees and contractors. Using the Work inside Your own
+organization is not distribution.
+
+2. GRANT
+The Licensor grants You a worldwide, royalty-free, non-exclusive,
+perpetual license (subject to Section 10) to use, study, copy,
+modify, merge, embed and distribute the Work. Each recipient
+receives this license directly from the Licensor.
+
+3. USE IS FREE
+You may run the Work for any purpose: personal, educational,
+commercial or corporate, including as a hosted service. Using the
+Work, including running a modified version, creates no obligation
+under this license.
+
+4. DISTRIBUTING UNMODIFIED COPIES
+You may distribute unmodified copies, in source or binary form, if
+You keep the copyright notice and this license text with them.
+
+5. DISTRIBUTING MODIFIED FILES (the "unshackle" rule)
+If You Distribute a Modified File, in source or binary form, then:
+ (a) You must mark the file as changed and keep existing notices;
+ (b) You must make the complete source of the Modified File
+     publicly available, free of charge, under this license, from
+     the time of distribution and for as long as You distribute it;
+ (c) If You distribute binaries, You must tell recipients where to
+     find that source.
+ (d) Simple way: publishing the Modified File in a public
+     repository, with (a) satisfied and a link to it given with
+     any binaries, fulfils (b) and (c). Nothing else is required:
+     no registration, no notice to the Licensor, no extra
+     paperwork.
+
+6. WHAT THIS LICENSE DOES NOT REQUIRE
+ (a) Your Files stay Yours. You may license them however You like,
+     including under proprietary terms.
+ (b) You may combine the Work, modified or not, with other software
+     and distribute the combination, as long as the Work's own
+     files remain under this license and Section 5 is followed.
+ (c) You may distribute a combined work containing Modified Files
+     under the GNU GPL (v2 or later), LGPL or AGPL, provided the
+     Modified Files' source remains available as Section 5(b)
+     requires.
+ (d) Copying a small excerpt (no more than 50 lines in total from
+     any one file) into another project does not make that
+     project's file a Modified File. Keep a comment crediting the
+     source.
+ (e) You are not required to share changes You never Distribute.
+
+7. PATENTS
+Each contributor grants You a worldwide, royalty-free license under
+their patent claims that are necessarily infringed by their
+contribution to the Work. If You start a patent lawsuit claiming
+the Work infringes a patent, the patent licenses You received from
+the parties You sued end on the day You file.
+
+8. NAMES AND TRADEMARKS
+This license gives no right to use the Licensor's or contributors'
+names, logos or trademarks. A modified version must not be
+presented as the original, and must not claim endorsement by the
+Licensor.
+
+9. NO WARRANTY; LIMITATION OF LIABILITY
+THE WORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+OR IMPLIED, INCLUDING MERCHANTABILITY, FITNESS FOR A PARTICULAR
+PURPOSE AND NON-INFRINGEMENT. TO THE EXTENT PERMITTED BY LAW, THE
+LICENSOR IS NOT LIABLE FOR ANY CLAIM OR DAMAGES ARISING FROM THE
+WORK OR ITS USE.
+
+10. TERMINATION AND REINSTATEMENT
+If You breach this license, Your rights end automatically. They are
+reinstated (a) provisionally, when You stop the breach, and
+(b) permanently, if the Licensor has not notified You within 60
+days after You stopped, or if You fix the breach within 30 days
+after a notice. People who received the Work from You keep their
+license as long as they comply.
+
+11. CONTRIBUTIONS
+Unless You state otherwise in writing, anything You deliberately
+submit to the Licensor for inclusion in the Work is licensed under
+this license.
+
+12. OTHER TERMS
+The Licensor may also offer the Work under other terms. If a part
+of this license is unenforceable, the rest still applies.
+
+13. NAME OF THIS LICENSE
+You may copy and distribute this license text unchanged. If You
+modify the text, You must not call the result "Unshackle License".
+
+14. TRANSLATIONS
+Translations of this license are for convenience only. If a
+translation and the English text differ, the English text applies.
